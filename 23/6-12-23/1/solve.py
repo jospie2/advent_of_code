@@ -7,7 +7,7 @@ Lines = file1.readlines()
 sum_total = 0
 
 
-
+# May take a few minutes to run!!
 
 line_num = 0
 
