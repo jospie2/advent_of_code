@@ -7,7 +7,11 @@ Lines = file1.readlines()
 sum_total = 0
 
 
+<<<<<<< HEAD
 
+=======
+# May take a few minutes to run!!
+>>>>>>> f88fa7e3bd8d0aecf52d47cd206f27c5ca8abb33
 
 line_num = 0
 
@@ -45,4 +49,8 @@ for vals in time_distance:
 
 
 
+<<<<<<< HEAD
 print(numpy.prod(times))
+=======
+print(numpy.prod(times))
+>>>>>>> f88fa7e3bd8d0aecf52d47cd206f27c5ca8abb33
