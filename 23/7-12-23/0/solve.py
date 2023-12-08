@@ -2,7 +2,7 @@ import numpy as numpy
 file1 = open('input.txt', 'r')
 Lines = file1.readlines()
 
-#solution: 449820
+#solution: 42250895
 
 sum_total = 0
 
@@ -44,5 +44,5 @@ for vals in time_distance:
         
 
 
-print(sum_total)
+
 print(numpy.prod(times))
